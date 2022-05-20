@@ -2,3 +2,7 @@ body {
     background-color: rgba(0, 194, 243, 0.356);
 }
 
+.header {
+    color: white;
+    background-color: cadetblue;
+}
